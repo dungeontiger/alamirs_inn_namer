@@ -1,0 +1,766 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"the"
+the happy eagle 
+ the human's kobold tavern 
+ the galloping soldier 
+ the medusa's goddess inn 
+ the waltzing demigod 
+ the red birch 
+ the halfing's descent tavern 
+ the prancing salior 
+ the spiritual vampire 
+ the red cavalier 
+ the fighting annointment inn 
+ the cup's descent
+----- Diversity:0.4
+----- Generating with seed:
+"the"
+the rabbit's daughter tavern 
+ the fiend's turnip inn 
+ the pointed sword 
+ the illustrious revenge tavern 
+ the ravenging annointment inn 
+ the regent's goddess inn 
+ the mine's tavern 
+ the halfing's cry tavern 
+ the illustrious rabbit 
+ the darkest lich 
+ the red dragon tavern 
+
+----- Diversity:0.5
+----- Generating with seed:
+"the"
+the ledge's ape tavern 
+ the wyvern's gnoll tavern 
+ the ghost's joy inn 
+ the ugly gnoll inn 
+ the sacred sea 
+ the raging pegasus 
+ the spear's hero tavern 
+ the regent's kobold inn 
+ inn 
+ the sleeping lemon 
+ the galloping carrot inn 
+ the heroine's
+----- Diversity:0.6
+----- Generating with seed:
+"the"
+the brave gnoll tavern 
+ the beautiful river 
+ the silver of the hero's inn 
+ the wolf's daughter tavern 
+ the red valley 
+ the lordly rabbit 
+ the reviled gate 
+ the lemon's abundance inn 
+ the cudgel's 
+ the rapier's goddess tavern 
+ the stone's whim tavern 
+
+----- Diversity:0.7
+----- Generating with seed:
+"the"
+the dirty captain 
+ the galleon's curse tavern 
+ sign of the barn's cavalier 
+ the empty baron inn 
+ the cowardly pixie 
+ the powerful tiger tavern 
+ the cat's carrot tavern 
+ the warship's fall inn 
+ tavern 
+ the soldier inn 
+ the lemon's carrot tavern 
+ the
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"inn"
+inn 
+ the empty pixie 
+ the cup's kobold tavern 
+ the spiritual missile 
+ the hero's gnoll inn 
+ the spider's daughter inn 
+ the fractured salior 
+ the soldier's cry tavern 
+ the fortress's defeat tavern 
+ the poor shield 
+ the zombie's defeat inn 
+ the ledge's failure
+----- Diversity:0.4
+----- Generating with seed:
+"inn"
+inn of the orc's heroine tavern 
+ the vampire's dragon tavern 
+ the lady's annointment inn 
+ the glorious staff 
+ the prancing cavalier 
+ the darken horse 
+ the gate's distinction tavern 
+ the sword's dragon inn 
+ the sinister cudgel 
+ the gluttonous ooze 
+ the falling arrow 
+
+----- Diversity:0.5
+----- Generating with seed:
+"inn"
+inn 
+ the knight's daughter inn 
+ the empty river 
+ the gem's gnoll tavern 
+ the statue's son inn 
+ the pig's annointment tavern 
+ the stepping missile tavern 
+ the forgotten lemon 
+ sign of the illustrious medusa 
+ the galleon's victory tavern of the vampire's kobold inn 
+
+----- Diversity:0.6
+----- Generating with seed:
+"inn"
+inn 
+ the priest's light inn 
+ the horse's ascension inn 
+ the rich hammer inn 
+ the hammer's daughter tavern 
+ the ooze's cry tavern 
+ the maiden's failure tavern 
+ the paladin's tiger inn 
+ the zombie's carrot inn 
+ the wolf's joy tavern 
+ the dwarf's light inn
+----- Diversity:0.7
+----- Generating with seed:
+"inn"
+inn 
+ the duke's leverage tavern 
+ the salior's light inn of the wise tower 
+ the grimacing valley inn 
+ the ghost's annointment inn 
+ the pigeon's gnoll inn of the stepping gem 
+ the hallowed orc tavern 
+ the chalice's kobold tavern 
+ the starving rabbit 
+ the fish's
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"tavern"
+tavern 
+ the spear's gnoll inn 
+ the fiend's son inn 
+ the queen's carrot inn 
+ the red tower tavern 
+ the worg's joy tavern 
+ the stomping unicorn 
+ the new snake 
+ the spear's hero tavern 
+ the powerful priest 
+ the emerald 
+ the axe's son inn
+----- Diversity:0.4
+----- Generating with seed:
+"tavern"
+tavern 
+ the spear's son tavern 
+ the hero's son inn 
+ the forgotten tower 
+ the feeble bowl 
+ the ghost's defeat inn 
+ the black baron 
+ the light tavern 
+ the pony's leverage inn 
+ the gray cup tavern 
+ the stepping baron 
+ the mermaid's orc tavern
+----- Diversity:0.5
+----- Generating with seed:
+"tavern"
+tavern 
+ the pixie's gnoll inn 
+ the running serpent inn 
+ the tasty sea 
+ the light inn 
+ the powerful devil 
+ the falling queen 
+ the gentle pegasus inn 
+ the count's son tavern 
+ the cherry's goddess tavern 
+ the queen's carrot inn 
+ the moat's victory
+----- Diversity:0.6
+----- Generating with seed:
+"tavern"
+tavern 
+ the staff's folly inn 
+ tavern 
+ the tankard's defeat inn 
+ the sergeant's kobold tavern of the thirsty bowl 
+ the captain's goblin tavern 
+ the glass's tiger inn 
+ the galloping staff tavern 
+ the falling devil 
+ the forest's descent inn 
+ the young peach inn
+----- Diversity:0.7
+----- Generating with seed:
+"tavern"
+tavern 
+ the captain's tiger inn 
+ the pixie's darkness inn of the colonel's gnoll tavern 
+ the fat badger 
+ the stone's failure tavern 
+ the glistening priest 
+ tavern 
+ the famous pick 
+ the dark snake 
+ the keep's fall tavern 
+ the crazy castle 
+ the zombie's
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"staff's"
+staff's son inn 
+ the lance's heroine inn 
+ the red badger 
+ the cudgel's gnoll inn 
+ the rugged rabbit 
+ the running valley 
+ the spear's daughter inn 
+ the sergeant's revenge tavern 
+ the mystical rabbit 
+ the running lake 
+ the angry wrym 
+ the red tower
+----- Diversity:0.4
+----- Generating with seed:
+"staff's"
+staff's ascension inn 
+ the lovely rabbit inn 
+ the darken pigeon 
+ the grimacing heroine tavern of the octopus's gnoll inn 
+ the dungeon's son tavern 
+ the horse's descent inn 
+ the tankard's carrot tavern 
+ the fighting snake 
+ the swollen devil 
+ the goddess's defeat tavern 
+
+----- Diversity:0.5
+----- Generating with seed:
+"staff's"
+staff's revenge tavern 
+ the salior's carrot inn 
+ the wintery tankard 
+ the insane lake 
+ the illusionary horse 
+ the lake's ascension inn 
+ the queen's heroine tavern 
+ the clever medusa 
+ the slime's abundance inn 
+ the lazy cavalier 
+ the mauve axe inn 
+ the glass's
+----- Diversity:0.6
+----- Generating with seed:
+"staff's"
+staff's daughter inn 
+ the lazy mage 
+ the peach's destiny tavern of the devil's distinction tavern 
+ the stomping savage coin 
+ the simple ghost 
+ the castle's cry inn 
+ the emerald tavern 
+ the glass's cry tavern 
+ the mistress's destiny inn of the hard goblin inn of
+----- Diversity:0.7
+----- Generating with seed:
+"staff's"
+staff's victory tavern 
+ the ooze's pony tavern of the barn's light inn of the young king 
+ the sacred axe 
+ the poor fiend 
+ the sly goddess tavern 
+ the centaur's daughter inn 
+ sign of the running factory 
+ the spiritual lady 
+ the testy paladin 
+ the
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"baron's"
+baron's descent inn 
+ the clever medusa 
+ the spider's folly tavern 
+ the sleeping jungle 
+ the fractured medusa 
+ the gray gnoll inn 
+ the simple trident 
+ the pig's folly inn 
+ the halberd's ascension tavern 
+ the heroine's folly inn 
+ the galloping pigeon 
+ the ooze's
+----- Diversity:0.4
+----- Generating with seed:
+"baron's"
+baron's folly inn 
+ the sharp coin 
+ the fighting devil 
+ the brave snake 
+ the slime's fall tavern 
+ the waltzing valley inn 
+ the wild wyvern 
+ the tankard's revenge tavern 
+ the magic pegasus 
+ the lazy kraken 
+ the deity's goblin tavern 
+ the spoon's orc
+----- Diversity:0.5
+----- Generating with seed:
+"baron's"
+baron's son tavern 
+ the falling bugbear 
+ the furry emerald 
+ the coin's joy inn 
+ the tiger's turnip tavern 
+ the angry octopus 
+ the grimacing arrow 
+ the sharp rose 
+ the prancing dwarf 
+ the spiritual hobgoblin 
+ the crying regent 
+ the sword's carrot inn 
+
+----- Diversity:0.6
+----- Generating with seed:
+"baron's"
+baron's victory tavern 
+ the ghoul's whim inn 
+ the river's son tavern 
+ the prancing snake 
+ the spider's ascension inn 
+ the proud trident 
+ the radiant horse 
+ inn 
+ the cowardly breeze inn 
+ the factory's cry inn 
+ the spiky pick 
+ the glass's tiger tavern
+----- Diversity:0.7
+----- Generating with seed:
+"baron's"
+baron's goblin inn 
+ the duelist's destiny tavern 
+ the cudgel's dragon tavern 
+ the colonel's cry inn 
+ the amber's leverage inn 
+ the ancient battleaxe 
+ the priest's leverage inn 
+ tavern 
+ the worg's fall tavern 
+ the light inn 
+ the coin's heroine tavern 
+ the annointed
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"the"
+the red tankard 
+ the darken birch 
+ the red tower 
+ the fractured ruby 
+ the fruitful cudgel 
+ the young rose 
+ the fractured admiral 
+ the decrept lieutanant 
+ the amber's leverage inn 
+ the general's failure tavern 
+ the fancy pigeon 
+ the cowardly ooze 
+ the
+----- Diversity:0.4
+----- Generating with seed:
+"the"
+the cup's descent inn 
+ the forgotten ghost tavern 
+ the horse's son tavern 
+ the shark's kobold inn 
+ the insane spear 
+ the proud gate 
+ the glistening octopus 
+ the worg's failure tavern 
+ the gluttonous coin 
+ the fractured breeze 
+ the red ooze 
+ the dense
+----- Diversity:0.5
+----- Generating with seed:
+"the"
+the illusionary baron 
+ the red kraken 
+ the dark cup tavern 
+ the spoon's revenge tavern 
+ the emerald pig 
+ the hero's ascension inn 
+ the cavalier's whisper inn 
+ the prancing fish inn of the ogre's goddess tavern 
+ the radiant pegasus inn 
+ the testy rabbit 
+
+----- Diversity:0.6
+----- Generating with seed:
+"the"
+the crazy galleon inn of the red knight 
+ the lazy cherry 
+ the ghost's kobold inn 
+ the mermaid's gnoll tavern 
+ the fiend's dragon inn 
+ the lemon's son tavern of the pig's folly inn 
+ the forgotten queen 
+ the old glass inn 
+ the glorious castle 
+
+----- Diversity:0.7
+----- Generating with seed:
+"the"
+the duelist's hero 
+ the pegasus's goddess 
+ the fighting forest 
+ the lake's darkness tavern 
+ the pig's hero tavern of the gate's ascension tavern 
+ the wise cavalier tavern 
+ the raging captain 
+ the ravenging bugbear 
+ the cat's abundance tavern 
+ the maiden's joy inn of the
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"inn"
+inn 
+ the hero's ascension inn 
+ the lazy ooze 
+ the lord's carrot inn 
+ the red tower 
+ the tasty bear 
+ the loved tiger tavern 
+ the admiral's folly tavern 
+ the lazy cat 
+ the pristine coin 
+ the keep's goblin inn 
+ the fractured amber 
+
+----- Diversity:0.4
+----- Generating with seed:
+"inn"
+inn 
+ the gray kraken 
+ the spiky pegasus 
+ the coin's fall inn 
+ the fading gargoyle tavern 
+ the general's son inn 
+ the cudgel's failure tavern 
+ the illustrious cup inn 
+ the grim priest 
+ the fighting bugbear 
+ the sinister duke 
+ the clever galleon 
+
+----- Diversity:0.5
+----- Generating with seed:
+"inn"
+inn 
+ the mine's failure tavern 
+ the ancient badger 
+ the proud chalice 
+ the trident's leverage tavern 
+ the black ghoul 
+ the raging ooze tavern 
+ the illustrious badger 
+ sign of the old glass 
+ the hallowed rapier inn 
+ sign of the tasty maul 
+ the
+----- Diversity:0.6
+----- Generating with seed:
+"inn"
+inn 
+ the gliding lance 
+ the red duke 
+ the deity's cry tavern 
+ the pick's defeat inn 
+ the fat lake inn of the testy pixie 
+ the pony's orc inn 
+ the cowardly breeze 
+ the insane sergeant 
+ the mine's gnoll inn 
+ the gliding fortress 
+
+----- Diversity:0.7
+----- Generating with seed:
+"inn"
+inn 
+ the wild vampire 
+ the lordly unicorn inn 
+ the queen's light tavern 
+ the beautiful lady 
+ the lemon's annointment tavern 
+ the gliding galleon 
+ the goblin's darkness inn 
+ the octopus's tiger tavern 
+ the silver demigod tavern 
+ the tankard's revenge tavern 
+ the ugly
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"the"
+the poor lemon 
+ the gliding kraken 
+ the red bear 
+ the cudgel's turnip tavern of the rugged spider 
+ the wyvern's gnoll inn 
+ the brave ghost 
+ the cowardly human 
+ the octopus's heroine inn 
+ the sharp glass 
+ the empty halberd 
+ the falling pixie 
+
+----- Diversity:0.4
+----- Generating with seed:
+"the"
+the gate's son inn 
+ the starving horse 
+ the heavy duke 
+ the spear's victory inn 
+ the magic heroine tavern 
+ the fractured ruby 
+ the hero's folly inn 
+ the golden river inn 
+ the red bear 
+ the spear's revenge inn 
+ the stately birch 
+ the
+----- Diversity:0.5
+----- Generating with seed:
+"the"
+the spiky pegasus 
+ the falling pixie 
+ the dungeon's son tavern of the battleaxe's annointment inn of the simple trident 
+ the valley's pony inn 
+ tavern 
+ the stately bowl 
+ the cudgel's folly tavern 
+ the queen's gnoll tavern 
+ the lake's ascension inn 
+ sign of the
+----- Diversity:0.6
+----- Generating with seed:
+"the"
+the cowardly mine 
+ the rugged scimitar 
+ the illusionary lance 
+ the grand admiral inn 
+ the ghoul's dragon inn of the paladin's kobold inn 
+ the falling pixie 
+ the captain's whisper tavern 
+ the old jungle 
+ the priest's abundance tavern 
+ the empty spear 
+ the running
+----- Diversity:0.7
+----- Generating with seed:
+"the"
+the swollen orchid 
+ the soiled amber 
+ the baron's goblin tavern 
+ the flying savage 
+ the hard haven 
+ the fractured amber 
+ the baron's descent inn 
+ the ledge's ape inn 
+ tavern 
+ the glass's dragon tavern of the deity's leverage inn of the running lieutanant 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"
+"
+
+ the sword's dragon tavern 
+ the lich's defeat tavern 
+ the tankard's carrot inn 
+ the tankard's carrot inn 
+ the hallowed rabbit 
+ the white roc tavern 
+ the red tankard 
+ the cup's defeat tavern 
+ the ogre's annointment inn 
+ the loved queen 
+ the cat's folly
+----- Diversity:0.4
+----- Generating with seed:
+"
+"
+
+ the emerald's annointment tavern 
+ the spear's gnoll inn 
+ the goblin's light inn 
+ the loved cavalier 
+ the spoon's orc inn 
+ the spider's folly inn 
+ the battleaxe's turnip inn 
+ the grim shield 
+ the empty moat 
+ the queen's gnoll inn 
+ the pig's folly
+----- Diversity:0.5
+----- Generating with seed:
+"
+"
+
+ the horse's cry tavern 
+ the running lieutanant 
+ the soldier's orc inn 
+ the royal wrym 
+ the castle's annointment inn 
+ the feeble goblin inn 
+ the loved cavalier 
+ the rugged axe 
+ the ghost's pride tavern 
+ the shark's goblin inn 
+ the tankard's defeat tavern
+----- Diversity:0.6
+----- Generating with seed:
+"
+"
+
+ the red lemon 
+ the staff's gnoll inn 
+ the bowl's dragon tavern 
+ sign of the gem's victory inn 
+ the general's carrot tavern of the glorious ghost 
+ the loved medusa 
+ the fractured medusa 
+ the forest's leverage inn 
+ the running lieutanant 
+ the savage dragon
+----- Diversity:0.7
+----- Generating with seed:
+"
+"
+
+ inn 
+ the strong hammer inn of the pig's folly inn 
+ the deity's destiny inn 
+ the bugbear's leverage inn 
+ the mauve whale 
+ the emerald's kobold tavern 
+ the halberd's kobold inn 
+ the weak ruby 
+ the spear's defeat inn 
+ the pig's folly inn of
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"inn"
+inn 
+ the clever halberd 
+ the red tankard 
+ the cowardly moat 
+ the empty coin 
+ the fruitful gem 
+ the lazy ooze 
+ the ancient unicorn 
+ the sullen tankard 
+ the halfing's hero tavern 
+ the sharp axe 
+ the king's whim inn 
+ the chalice's leverage
+----- Diversity:0.4
+----- Generating with seed:
+"inn"
+inn 
+ the poor emerald 
+ the sharp worg tavern 
+ the flying moat 
+ the running coin 
+ the paladin's leverage tavern 
+ the spider's ascension tavern 
+ the tower's son tavern 
+ the vampire's revenge inn 
+ the red drake 
+ the illusionary wyvern 
+ the wyvern's gnoll inn
+----- Diversity:0.5
+----- Generating with seed:
+"inn"
+inn 
+ the keep's goblin inn 
+ the illusionary valley inn 
+ the empty forest 
+ the strong sword 
+ the hog's kobold inn 
+ the red tankard 
+ the wild valley 
+ the spider's descent inn 
+ the insane octopus 
+ the spider's heroine tavern 
+ the old glass 
+
+----- Diversity:0.6
+----- Generating with seed:
+"inn"
+inn 
+ the jungle's hero tavern 
+ the proud captain 
+ the running staff 
+ sign of the annointed deity 
+ the cowardly halberd inn 
+ the darken jester inn 
+ the fancy ledge 
+ the slime's pony tavern 
+ the illusionary bear 
+ the lordly deity inn 
+ the strong
+----- Diversity:0.7
+----- Generating with seed:
+"inn"
+inn of the queen's ascension tavern 
+ the sly factory 
+ the bowl's son inn of the fat octopus 
+ the centaur's son inn 
+ sign of the bugbear's revenge inn 
+ the dark sea 
+ the lord's kobold tavern of the tankard's leverage tavern 
+ the magic bear 
+ the
+================================================================================
