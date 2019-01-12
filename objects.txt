@@ -34,3 +34,8 @@ orc
 gnoll
 goblin
 dragon
+archer
+ballista
+catapult
+calvary
+infantry

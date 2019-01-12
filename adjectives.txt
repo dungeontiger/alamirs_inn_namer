@@ -125,3 +125,5 @@ stepping
 gliding
 mystical
 fearful
+elite
+vengeful

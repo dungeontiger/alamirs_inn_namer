@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 lstm/checkpoints
+credentials.json
